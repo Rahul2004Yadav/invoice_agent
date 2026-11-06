@@ -1,0 +1,6 @@
+vendor_id,name,aliases,tax_id,status,status_note,payment_terms_days
+V001,Acme Industrial Supplies Inc.,Acme Industrial|Acme Supplies,12-3456789,approved,,30
+V002,Brightline Logistics LLC,Brightline Logistics|Brightline,23-4567890,approved,,15
+V003,Coastal Office Solutions,Coastal Office|Coastal Office Solutions Ltd,34-5678901,approved,,30
+V004,Delta Precision Parts Co.,Delta Precision|Delta Precision Parts,45-6789012,approved,,45
+V005,Evergreen Packaging Ltd,Evergreen Packaging,56-7890123,blocked,Bank-detail change request under fraud review since 2026-10-12,30

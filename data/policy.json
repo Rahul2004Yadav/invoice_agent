@@ -1,0 +1,11 @@
+{
+  "buyer_company": "Northwind Manufacturing",
+  "amount_tolerance_pct": 2.0,
+  "amount_tolerance_abs": 25.0,
+  "unit_price_tolerance_pct": 2.0,
+  "auto_approve_limit": 25000,
+  "duplicate_window_days": 60,
+  "po_inference_min_score": 0.75,
+  "max_tax_rate_pct": 15,
+  "ocr_min_confidence": 0.80
+}

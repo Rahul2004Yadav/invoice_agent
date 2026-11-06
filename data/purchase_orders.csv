@@ -1,0 +1,9 @@
+po_number,vendor_id,issue_date,currency,status,buyer
+PO-2026-1001,V001,2026-09-28,USD,open,Priya Shah (Facilities)
+PO-2026-1002,V002,2026-09-30,USD,open,Marcus Lee (Supply Chain)
+PO-2026-1003,V003,2026-10-02,USD,open,Priya Shah (Facilities)
+PO-2026-1004,V004,2026-10-05,USD,open,Dana Ortiz (Production)
+PO-2026-1005,V003,2026-10-08,USD,open,Priya Shah (Facilities)
+PO-2026-1006,V005,2026-09-20,USD,open,Marcus Lee (Supply Chain)
+PO-2026-1007,V001,2026-08-15,USD,closed,Priya Shah (Facilities)
+PO-2026-1008,V001,2026-10-12,USD,open,Dana Ortiz (Production)
